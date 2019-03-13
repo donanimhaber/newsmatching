@@ -1,4 +1,4 @@
-# newsmatching
+# News Article Matching
 
 Code and Dataset for our paper **"Combining Lexical and Semantic Similarity Methods for News Article Matching"**
 
