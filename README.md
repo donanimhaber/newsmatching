@@ -15,6 +15,6 @@ Notebooks:
 * `v04_supevised_lemma.ipynb`: Supervised experiments.
 * `v05_wmc.ipynb`: Words Mover's Distance experiments for comparison.
 * `v06_supservised_we_concat.ipynb`: Word embedding concatentation as features to classifiers, did not work.
-* `v07_kenter_short_text.ipynb`: BM23 similarity method experiments for comparison
+* `v07_kenter_short_text.ipynb`: BM25 similarity method experiments for comparison
 
 
